@@ -10,26 +10,27 @@
 ## Principles
 * Computers should manage state not humans
 * No fuss: no complex configuration
+* Railway tunnels and aeroplanes exist. You should still be able to do things when you don't have a connection.
 
 ## The List
 
 * Pocket - 5/5 on iOS
-  Syncs everything for offline reading in background, all actions (e.g. archiving an article) are stored for later run on connection.
+  * Syncs everything for offline reading in background, all actions (e.g. archiving an article) are stored for later run on connection.
 
 * Instapaper - 5/5 on iOS
-  Syncs everything for offline reading in background, all actions (e.g. archiving an article) are stored for later run on connection.
+  * Syncs everything for offline reading in background, all actions (e.g. archiving an article) are stored for later run on connection.
 
 * Evernote - 4/5 on iOS
-  Needs a premium subscription to use offline. Requires you to choose whether particular notebooks are downloaded for offline use.
+  * Needs a premium subscription to use offline. Requires you to choose whether particular notebooks are downloaded for offline use.
 
 * Things - 5/5 on iOS
-  Syncs when there is connectivity. Otherwise can be used fully offline.
+  * Syncs when there is connectivity. Otherwise can be used fully offline.
 
 * 1Password - 5/5 on iOS
-  Syncs via Dropbox or iCloud when online. Can be used fully offline.
+  * Syncs via Dropbox, iCloud or 1password.com when online. Can be used fully offline.
 
 * Fastmail - 0/5 on iOS
-  No ability to use offline.
+  * No ability to use offline.
 
 * Weather - 0/5 on iOS
-  No ability to use offline.
+  * No ability to use offline.
