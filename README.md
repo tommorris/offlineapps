@@ -10,7 +10,7 @@
 ## Principles
 * Computers should manage state not humans
 * No fuss: no complex configuration
-* Railway tunnels and aeroplanes exist. You should still be able to do things when you don't have a connection.
+* Railway tunnels and aeroplanes exist; sometimes you are in countries where you don't have data. You should still be able to do things when you don't have a connection.
 
 ## The List
 
@@ -20,6 +20,9 @@
 * Instapaper - 5/5 on iOS
   * Syncs everything for offline reading in background, all actions (e.g. archiving an article) are stored for later run on connection.
 
+* Bear - 5/5 on iOS, macOS
+  * Note-taking app which syncs via iCloud. Works fully offline.
+
 * Evernote - 4/5 on iOS
   * Needs a premium subscription to use offline. Requires you to choose whether particular notebooks are downloaded for offline use.
 
@@ -28,6 +31,9 @@
 
 * 1Password - 5/5 on iOS
   * Syncs via Dropbox, iCloud or 1password.com when online. Can be used fully offline.
+
+* Pinner - 4/5 on iOS
+  * You can edit your bookmarks offline and it _should_ sync when you get connected again.
 
 * Fastmail - 0/5 on iOS
   * No ability to use offline.
